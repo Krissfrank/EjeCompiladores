@@ -1,6 +1,6 @@
 
 
-package Problema9;
+package Problema09;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ import java.util.Scanner;
  *
  * @author Cristian
  */
-public class Problema9 {
+public class Problema09 {
 /**
  * Programa que determina si un numero es positivo o negativo
  */  

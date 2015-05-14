@@ -1,11 +1,11 @@
 
-package Problema5;
+package Problema05;
 
 /**
  *
  * @author Cristian
  */
-public class Problema5 {
+public class Problema05 {
  /**
   * Programa que imprima los numeros impares hasta el 100 y los cuente.
   */

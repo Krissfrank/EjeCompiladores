@@ -4,13 +4,13 @@
  * and open the template in the editor.
  */
 
-package Problema4;
+package Problema04;
 
 /**
  *
  * @author Cristian
  */
-public class Problema4 {
+public class Problema04 {
     /**
      * Programa que imprime la suma de los 100 primeros numeros.
      */

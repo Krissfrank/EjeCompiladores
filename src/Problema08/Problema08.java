@@ -1,5 +1,5 @@
 
-package Problema8;
+package Problema08;
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ import java.util.Scanner;
  *
  * @author Cristian
  */
-public class Problema8 {
+public class Problema08 {
  /**
   * Programa que solo nos permita introducir S o N
   */   

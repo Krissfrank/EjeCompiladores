@@ -1,5 +1,5 @@
 
-package Problema6;
+package Problema06;
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ import java.util.Scanner;
  *
  * @author Cristian
  */
-public class Problema6 {
+public class Problema06 {
     /**
      * Programa que  imprima todos los numeros naturales que hay
 desde la unidad hasta un numero que introducimos por teclado.

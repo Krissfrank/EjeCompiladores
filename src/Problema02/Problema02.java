@@ -1,12 +1,12 @@
 
 
-package Problema2;
+package Problema02;
 
 /**
  *
  * @author Cristian
  */
-public class Problema2 {
+public class Problema02 {
     /**
      * Programa que muestra los numeros del 100 al 0 de manera descreciente.
      */

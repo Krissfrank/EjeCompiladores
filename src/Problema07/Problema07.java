@@ -1,5 +1,5 @@
 
-package Problema7;
+package Problema07;
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ import java.util.Scanner;
  *
  * @author Cristian
  */
-public class Problema7 {
+public class Problema07 {
     /**
      * Programa que introduces tantas frases como queramos y contarlas.
      */

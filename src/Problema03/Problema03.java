@@ -1,11 +1,11 @@
 
-package Problema3;
+package Problema03;
 
 /**
  *
  * @author Cristian
  */
-public class Problema3 {
+public class Problema03 {
     /**
      * Programa que muestra todos los numeros pares del 0 al 100
      */

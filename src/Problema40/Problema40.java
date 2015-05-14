@@ -6,6 +6,10 @@ package Problema40;
  * @author Cris
  */
 public class Problema40 {
+    /**
+     * Programa que crea una tabla de 3 paginas, 4 filas y 5 columnas donde el primer
+elemento vale 1, el segundo 2, el tercero 3 y asi sucesivamente, y la imprime
+     */
     public static void main(String[] args) {
       new Arrays1().run();   
     }

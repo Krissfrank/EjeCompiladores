@@ -29,6 +29,16 @@ public class Problema35 {
         int pos=0;
         System.out.println("Ingrese la posicion de la calificacion que quiere ver");
         pos= entrada.nextInt();
+        int cont3=0;
+      
+        while(pos!=arreglo[cont3]){
+        if(pos==arreglo[cont3]){
+            System.out.println("La calificacion de la posicion ingresada es" +arreglo[cont3]);
+        
+        }
+        cont3++;
+        
+        }
         System.out.println(arreglo[pos]);
     }
 }

@@ -14,28 +14,25 @@ impares.
     public static void main(String[] args) {
         int contador=0;
         int aux=0;
-        int conPar=0, conImp = 0;
         int auxPar = 0, auxImp = 0;
         while(contador<100){
             contador++;
            
             aux=contador%2;
             if(aux==0){
-                System.out.printf("El numero %d es par\n",contador);
-                conPar++;
-                auxPar=conPar+auxPar;
+                System.out.printf("El numero %d es par\n",contador); 
+                auxPar=contador+auxPar;
             }
             else{
             System.out.printf("El numero %d es impar\n",contador);
-                conImp++;
-                auxImp=conImp+auxImp;
+                auxImp=contador+auxImp;
             }
             
             
         
         }
-        System.out.printf("La cantidad de pares es: %d\n",auxPar);
-        System.out.printf("La cantidad de impares es: %d\n",auxImp);
+        System.out.printf("La suma de pares es: %d\n",auxPar);
+        System.out.printf("La suma de impares es: %d\n",auxImp);
         
     }
     

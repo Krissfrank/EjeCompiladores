@@ -41,21 +41,7 @@ public class Problema36 {
          
          
          
-         
-        /* while(cont2<3){
-             num=Rnd.nextInt(100);
-          arreglo[cont1][cont2]= num ;
-         cont2++;
-         } 
-         
-         while(cont1<4){
-             num=Rnd.nextInt(100);
-          arreglo[cont1][cont2]= num ;
-         cont1++;
-         
-         }
-           */
-         
+      
          
         
     }
